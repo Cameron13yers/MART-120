@@ -102,6 +102,12 @@ function draw()
 
     triangle(0, 600, 250, 480, 500, 600)
 
-    text('Cameron Byers', 390, 480);
+    textSize(20)
+    text('Cameron Byers', 350, 480);
+
+    fill(255, 255, 255)
+    stroke(20)
+    textSize(50)
+    text('MY SELF PORTRAIT', 10, 30, 500)
 }
 
