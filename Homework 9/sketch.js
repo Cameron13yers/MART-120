@@ -101,5 +101,7 @@ function draw()
     point(160, 310)
 
     triangle(0, 600, 250, 480, 500, 600)
+
+    text('Cameron Byers', 390, 480);
 }
 
